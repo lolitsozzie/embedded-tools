@@ -1,10 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>
-      this is simply a site that i made to host some of the websites that I frequently use for embedded dev.
-    </p>
-    <h3>Essential Links</h3>
+    <h3>essential links</h3>
     <ul>
       <li><a href="https://twitter.com/ozzie_martin" target="_blank" rel="noopener">twitter</a></li> | 
       <li><a href="https://www.instagram.com/ozzie_martin/" target="_blank" rel="noopener">instagram</a></li> | 

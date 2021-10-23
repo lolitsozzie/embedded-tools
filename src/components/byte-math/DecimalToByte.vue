@@ -1,8 +1,8 @@
 <template>
-  <div class="center narrow">
+  <div class="center main-body">
     <div class="row">
         <div>
-          <h3 class="center">Enter some bytes</h3>
+          <h3 class="center-horizontal">Enter some bytes</h3>
           <b-form-textarea
             class="ascii-input"
             id="textarea"

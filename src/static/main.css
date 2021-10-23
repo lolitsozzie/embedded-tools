@@ -1,0 +1,10 @@
+.main-body {
+    max-width: 960px;;
+}
+.center-horizontal {
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    margin: auto;
+}
